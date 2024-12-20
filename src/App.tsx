@@ -1,11 +1,9 @@
-import Count from "./components/Count";
-import FakeCount from "./components/FakeCount";
+import User from "./components/User";
 
 function App() {
   return (
     <>
-      <Count />
-      <FakeCount />
+      <User />
     </>
   );
 }
